@@ -28,11 +28,23 @@
 `brew install git python-tk gh speedtest`
 
 ## Desktop Apps
-`brew install --cask alt-tab google-chrome mounty balenaetcher maccy shottr keka numi`
+`brew install --cask alt-tab google-chrome mounty balenaetcher maccy shottr keka numi logi-options+`
 
 ## Coding Apps
-`brew install --cask sublime-text github vscode macdown`
+`brew install --cask sublime-text github visual-studio-code macdown modern-csv`
+
+## Remote Control Apps
+`brew install --cask royal-tsx windows-app rustdesk`
 
 ## Hackintosh Apps
 `brew install --cask hackintool karabiner-elements`
 
+## Hackintosh Tools
+* ProperTree: `gh repo clone corpnewt/ProperTree`
+* GenSMBIOS: `gh repo clone corpnewt/GenSMBIOS`
+* OC-Update: `gh repo clone corpnewt/OC-Update`
+* OCupdater: `gh repo clone perez987/OCUpdater`
+
+## Other Tools
+* MenuPing: https://github.com/julienbordet/MenuPing/releases/latest
+* JsonEditor: https://github.com/jxo-me/JsonEditor/releases/latest
