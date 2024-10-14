@@ -13,7 +13,9 @@
 
 * Install Oh My Zsh:
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
-`brew install zsh zsh-completions zsh-autosuggestions` 
+`brew install zsh zsh-autosuggestions zsh-syntax-highlighting`
+`echo "source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh" >> ~/.zshrc`
+`echo "source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ~/.zshrc`
 
 * Install PowerLevel10k:
 `brew install powerlevel10k`
@@ -26,9 +28,11 @@
 `brew tap teamookla/speedtest`
 `brew update && brew upgrade`                                                                                                                           
 `brew install git python-tk gh speedtest`
+`ln -s /usr/local/bin/python3.12 /usr/local/bin/python3`
+`ln -s /usr/local/bin/python3 /usr/local/bin/python`
 
 ## Desktop Apps
-`brew install --cask alt-tab google-chrome mounty balenaetcher maccy shottr keka numi logi-options+`
+`brew install --cask alt-tab google-chrome mounty balenaetcher maccy shottr keka numi logi-options+ mailspring tunnelblick`
 
 ## Coding Apps
 `brew install --cask sublime-text github visual-studio-code macdown modern-csv`
