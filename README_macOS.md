@@ -33,6 +33,7 @@
 
 ## Desktop Apps
 `brew install --cask alt-tab google-chrome mounty balenaetcher maccy shottr keka numi logi-options+ mailspring tunnelblick`
+`brew install --cask betterdisplay apache-directory-studio bitwarden caffeine deepl disk-inventory-x drawio box-drive inssider keka mark-text novabench rectangle resolutionator rustdesk vlc warp xca`
 
 ## Coding Apps
 `brew install --cask sublime-text github visual-studio-code macdown modern-csv`
