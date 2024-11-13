@@ -31,6 +31,9 @@
 `ln -s /usr/local/bin/python3.12 /usr/local/bin/python3`
 `ln -s /usr/local/bin/python3 /usr/local/bin/python`
 
+## SysAdmin Terminal Apps
+`brew install swaks nmap`
+
 ## Desktop Apps
 `brew install --cask alt-tab google-chrome mounty balenaetcher maccy shottr keka numi logi-options+ mailspring tunnelblick`
 `brew install --cask betterdisplay apache-directory-studio bitwarden caffeine deepl disk-inventory-x drawio box-drive inssider keka mark-text novabench rectangle resolutionator rustdesk vlc warp xca`
