@@ -32,7 +32,7 @@
 `ln -s /usr/local/bin/python3 /usr/local/bin/python`
 
 ## SysAdmin Terminal Apps
-`brew install swaks nmap`
+`brew install swaks nmap mtr`
 
 ## Desktop Apps
 `brew install --cask alt-tab google-chrome mounty balenaetcher maccy shottr keka numi logi-options+ mailspring tunnelblick`
@@ -51,7 +51,7 @@
 * ProperTree: `gh repo clone corpnewt/ProperTree`
 * GenSMBIOS: `gh repo clone corpnewt/GenSMBIOS`
 * OC-Update: `gh repo clone corpnewt/OC-Update`
-* OCupdater: `gh repo clone perez987/OCUpdater`
+* OCupdater: `gh repo clone Lovely-XPP/OCUpdater`
 
 ## Other Tools
 * MenuPing: https://github.com/julienbordet/MenuPing/releases/latest
