@@ -52,6 +52,8 @@
 * GenSMBIOS: `gh repo clone corpnewt/GenSMBIOS`
 * OC-Update: `gh repo clone corpnewt/OC-Update`
 * OCupdater: `gh repo clone Lovely-XPP/OCUpdater`
+* octool: `gh repo clone rusty-bits/octool`
+* gibMacOS: `gh repo clone corpnewt/gibMacOS`
 
 ## Other Tools
 * MenuPing: https://github.com/julienbordet/MenuPing/releases/latest
