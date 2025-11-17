@@ -1,3 +1,5 @@
+# Fitxers típics de macOS
+.DS_Store
 
-EFI/OC/.DS_Store
-EFI/OC/Kexts/.DS_Store
+# Altres variants
+**/.DS_Store
